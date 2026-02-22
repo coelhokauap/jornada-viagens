@@ -49,7 +49,7 @@
   }
 }
 @media screen and (min-width: 1024px) {
-  .destinations {
+  .destinations { 
     width: 900px;
   }
 
