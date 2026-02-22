@@ -18,7 +18,7 @@
   background-size: cover;
 }
 
-.destinations .item header h3 {
+.destinations .item header h4 {
   margin: 24px 0;
 }
 .destinations .item p {
@@ -49,7 +49,7 @@
   }
 }
 @media screen and (min-width: 1024px) {
-  .destinations {
+  .destinations { 
     width: 900px;
   }
 
