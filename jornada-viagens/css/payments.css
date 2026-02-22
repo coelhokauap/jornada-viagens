@@ -1,14 +1,10 @@
 .payments .image-gallery {
-  display: grid; 
+  display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 24px;
   height: 460px;
   margin-top: 24px;
   width: 100%;
-}
-
-.payments .content-container {
-  display: flex;
 }
 
 .payments .content-container .image-gallery .image.first {
@@ -49,6 +45,7 @@
 
 @media screen and (min-width: 1440px) {
   .payments .content-container {
+    display: flex;
     justify-content: space-between;
   }
   .payments .content-container .text-content {
@@ -56,5 +53,6 @@
   }
   .payments .content-container .image-gallery {
     width: 790px;
+    margin: 0;
   }
 }
