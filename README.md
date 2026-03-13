@@ -1,4 +1,4 @@
-# TecBoard
+# Jornada Viagens
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=light" />
@@ -8,40 +8,39 @@
 
 ## Description
 
-**TecBoard** is a modern web dashboard designed to centralize technology-related information in a clean and intuitive interface.  
-The project aims to provide a visually organized board where users can explore relevant tech content, tools, and resources.
+**Jornada Viagens** is a modern travel website designed to showcase destinations and inspire people to explore new places around the world.
 
-The application focuses on **simplicity, usability, and responsive design**, making it accessible on different devices while maintaining a modern UI.
+The project focuses on delivering a **clean and visually appealing interface**, allowing users to navigate through travel-related content in a simple and intuitive way.
 
-This project was developed as part of a learning and portfolio initiative to demonstrate **front-end development skills and interface design**.
+It was developed as part of a portfolio project to demonstrate **front-end development skills**, responsive layout techniques, and best practices for building modern static websites.
 
 ---
 
 ## Project Objective
 
-The goal of **TecBoard** is to create a **centralized technology dashboard** that allows users to:
+The goal of **Jornada Viagens** is to create a **modern travel-themed web interface** that allows users to:
 
-- Access technology-related information quickly
-- Visualize organized content in a modern UI
-- Explore a clean and responsive interface
-- Demonstrate practical front-end development concepts
+* Explore travel destinations through an engaging layout
+* Experience a clean and intuitive navigation structure
+* Access content in a responsive interface across different devices
+* Demonstrate practical front-end development concepts
 
 ---
 
 ## Features
 
-- Technology dashboard interface
-- Fully responsive design
-- Fast and lightweight web application
-- Modern and clean user interface
-- Live deployment using GitHub Pages
+* Travel destination presentation
+* Clean and modern interface
+* Fully responsive layout
+* Fast and lightweight static website
+* Live deployment using GitHub Pages
 
 ---
 
 ## Technologies
 
-- HTML5
-- CSS3
-- JavaScript
-- Git & GitHub
-- GitHub Pages (Deployment)
+* HTML5
+* CSS3
+* JavaScript
+* Git & GitHub
+* GitHub Pages (Deployment)
