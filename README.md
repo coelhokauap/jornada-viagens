@@ -1,68 +1,47 @@
-# Jornada Viagens
+# TecBoard
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=light)](https://skillicons.dev)
-
-Aplicação web estática desenvolvida com o objetivo de apresentar destinos turísticos de forma visual e organizada. O projeto demonstra conceitos fundamentais de desenvolvimento front-end utilizando **HTML5**, **CSS3** e publicação através do **GitHub Pages**.
-
-🔗 **Acesse o projeto online:**
-https://coelhokauap.github.io/jornada-viagens/
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=light" />
+</p>
 
 ---
 
-# Visão Geral
+## Description
 
-O **Jornada Viagens** é um website desenvolvido como parte de um processo de aprendizado em desenvolvimento web. A aplicação apresenta uma interface simples e intuitiva voltada à exibição de destinos turísticos e experiências de viagem.
+**TecBoard** is a modern web dashboard designed to centralize technology-related information in a clean and intuitive interface.  
+The project aims to provide a visually organized board where users can explore relevant tech content, tools, and resources.
 
-O principal objetivo do projeto é aplicar conceitos fundamentais de **estruturação semântica de páginas web**, **estilização com CSS** e **organização de layouts**, além de praticar o fluxo completo de desenvolvimento com **Git, GitHub e GitHub Pages**.
+The application focuses on **simplicity, usability, and responsive design**, making it accessible on different devices while maintaining a modern UI.
 
-A proposta do site é simular uma página institucional ou promocional de viagens, oferecendo uma experiência visual clara, agradável e de fácil navegação.
-
----
-
-# Objetivos do Projeto
-
-Este projeto foi desenvolvido com os seguintes objetivos:
-
-* Aplicar conceitos de **HTML semântico**
-* Praticar **estilização e organização visual com CSS**
-* Aprender **versionamento de código utilizando Git**
-* Publicar projetos web com **GitHub Pages**
-* Desenvolver experiência prática na construção de interfaces web simples
+This project was developed as part of a learning and portfolio initiative to demonstrate **front-end development skills and interface design**.
 
 ---
 
-# Tecnologias Utilizadas
+## Project Objective
 
-As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
+The goal of **TecBoard** is to create a **centralized technology dashboard** that allows users to:
 
-* **HTML5** – Estrutura e organização do conteúdo da página
-* **CSS3** – Estilização, layout e identidade visual
-* **Git** – Controle de versão do projeto
-* **GitHub** – Armazenamento do repositório e colaboração
-* **GitHub Pages** – Hospedagem do site
-
----
-
-# Funcionalidades
-
-O projeto apresenta as seguintes características:
-
-* Estrutura de página organizada e semântica
-* Layout visual simples e objetivo
-* Seções informativas sobre destinos de viagem
-* Navegação clara e acessível
-* Interface visual pensada para facilitar a leitura e a experiência do usuário
-* Publicação online utilizando GitHub Pages
+- Access technology-related information quickly
+- Visualize organized content in a modern UI
+- Explore a clean and responsive interface
+- Demonstrate practical front-end development concepts
 
 ---
 
-# Aprendizados e Práticas Aplicadas
+## Features
 
-Durante o desenvolvimento deste projeto, foram aplicados diversos conceitos importantes do desenvolvimento web, como:
+- Technology dashboard interface
+- Fully responsive design
+- Fast and lightweight web application
+- Modern and clean user interface
+- Live deployment using GitHub Pages
 
-* Estruturação semântica utilizando HTML5
-* Organização de conteúdo em seções lógicas
-* Estilização e formatação de layout com CSS
-* Gerenciamento de versões com Git
-* Publicação de aplicações web estáticas
-* Organização de arquivos em projetos front-end
+---
+
+## Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- GitHub Pages (Deployment)
