@@ -43,26 +43,6 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 
 ---
 
-# 🧩 Estrutura do Projeto
-
-A organização do projeto segue uma estrutura simples e clara para facilitar manutenção e evolução futura:
-
-```
-jornada-viagens
-│
-├── index.html
-├── style.css
-├── images/
-│
-└── README.md
-```
-
-* **index.html** — Estrutura principal da aplicação
-* **style.css** — Arquivo responsável pela estilização do site
-* **images/** — Pasta destinada aos recursos visuais utilizados no projeto
-
----
-
 # ✨ Funcionalidades
 
 O projeto apresenta as seguintes características:
@@ -104,31 +84,3 @@ cd jornada-viagens
 ```
 
 Por se tratar de um projeto estático, não é necessário instalar dependências ou executar servidores.
-
----
-
-# 🔮 Possíveis Melhorias Futuras
-
-Algumas melhorias que podem ser implementadas no projeto incluem:
-
-* Implementação de **design totalmente responsivo**
-* Adição de **interações com JavaScript**
-* Criação de uma **galeria dinâmica de destinos**
-* Integração com **APIs de turismo ou clima**
-* Implementação de **animações e transições modernas**
-* Estruturação utilizando **metodologias de CSS (BEM ou similar)**
-
----
-
-# 👨‍💻 Autor
-
-**Kauã Coelho Pacheco**
-
-GitHub:
-https://github.com/coelhokauap
-
----
-
-# 📄 Licença
-
-Este projeto está disponível para fins educacionais e de estudo.
