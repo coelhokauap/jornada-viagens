@@ -122,7 +122,7 @@ Algumas melhorias que podem ser implementadas no projeto incluem:
 
 # 👨‍💻 Autor
 
-**Kauã Coelho**
+**Kauã Coelho Pacheco**
 
 GitHub:
 https://github.com/coelhokauap
