@@ -1,4 +1,4 @@
-# Jornada Viagens 🌍
+# Jornada Viagens
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=light)](https://skillicons.dev)
 
@@ -9,7 +9,7 @@ https://coelhokauap.github.io/jornada-viagens/
 
 ---
 
-# 📖 Visão Geral
+# Visão Geral
 
 O **Jornada Viagens** é um website desenvolvido como parte de um processo de aprendizado em desenvolvimento web. A aplicação apresenta uma interface simples e intuitiva voltada à exibição de destinos turísticos e experiências de viagem.
 
@@ -19,7 +19,7 @@ A proposta do site é simular uma página institucional ou promocional de viagen
 
 ---
 
-# 🎯 Objetivos do Projeto
+# Objetivos do Projeto
 
 Este projeto foi desenvolvido com os seguintes objetivos:
 
@@ -31,7 +31,7 @@ Este projeto foi desenvolvido com os seguintes objetivos:
 
 ---
 
-# 🛠 Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 
@@ -43,7 +43,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 
 ---
 
-# ✨ Funcionalidades
+# Funcionalidades
 
 O projeto apresenta as seguintes características:
 
@@ -56,7 +56,7 @@ O projeto apresenta as seguintes características:
 
 ---
 
-# 📚 Aprendizados e Práticas Aplicadas
+# Aprendizados e Práticas Aplicadas
 
 Durante o desenvolvimento deste projeto, foram aplicados diversos conceitos importantes do desenvolvimento web, como:
 
@@ -66,21 +66,3 @@ Durante o desenvolvimento deste projeto, foram aplicados diversos conceitos impo
 * Gerenciamento de versões com Git
 * Publicação de aplicações web estáticas
 * Organização de arquivos em projetos front-end
-
----
-
-# 🚀 Como Executar o Projeto Localmente
-
-Para executar o projeto em sua máquina local:
-
-```bash
-# Clone o repositório
-git clone https://github.com/coelhokauap/jornada-viagens.git
-
-# Acesse a pasta do projeto
-cd jornada-viagens
-
-# Abra o arquivo index.html no navegador
-```
-
-Por se tratar de um projeto estático, não é necessário instalar dependências ou executar servidores.
