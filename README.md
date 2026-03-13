@@ -1,6 +1,6 @@
 # Jornada Viagens 🌍
 
-![Tecnologias](https://skillicons.dev/icons?i=html,css,git,github&perline=4)
+[![My Skills](https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=light)](https://skillicons.dev)
 
 Aplicação web estática desenvolvida com o objetivo de apresentar destinos turísticos de forma visual e organizada. O projeto demonstra conceitos fundamentais de desenvolvimento front-end utilizando **HTML5**, **CSS3** e publicação através do **GitHub Pages**.
 
